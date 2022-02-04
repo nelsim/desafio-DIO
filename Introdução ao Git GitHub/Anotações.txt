@@ -1,1 +1,24 @@
 Anotações sobre o Curso de Introdução do Git/GitHub.
+
+Alguns comandos no Git Bash:
+$git clone //link do repositório copiado do site do GitHub
+Trazer as informações do repositório que está no GitHub para a máquina local.
+
+$cd //nome da pasta da máquina local
+Entrar na pasta //se a pasta for um repositório, irá entrar no repositório
+
+$git status
+Ver status do repositório
+
+$git add .
+Irá adicionar todos os arquivos modificados ao GitHub.
+
+$git commit -m //mensagem/comentário a ser adicionado junto com o arquivo (colocado entre aspas) 
+Vai commitar os arquivos
+
+$git push origin main
+Enviar todos commits para nuvem, para o GitHub.
+
+* .md = Markdown
+>[nome_de_exibição](Link)
+
